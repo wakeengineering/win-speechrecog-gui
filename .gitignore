@@ -1,0 +1,7 @@
+# Ignore large model directories and runtime artifacts
+model/
+model_base/
+model_large/
+__pycache__/
+*.log
+*.tmp
